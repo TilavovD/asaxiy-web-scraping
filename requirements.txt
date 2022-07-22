@@ -1,0 +1,7 @@
+# Telegram
+python-telegram-bot==13.13
+requests
+telegram
+bs4
+
+
